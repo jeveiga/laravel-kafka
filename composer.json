@@ -1,5 +1,5 @@
 {
-    "name": "mateusjunges/laravel-kafka",
+    "name": "jeveiga/laravel-kafka",
     "description": "A kafka driver for laravel",
     "type": "library",
     "require": {
@@ -32,8 +32,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "mateusjunges",
-            "email": "mateus@junges.dev",
+            "name": "José Veiga",
+            "email": "jeveiga@worten.pt",
             "role": "Senior Software Engineer"
         }
     ],
